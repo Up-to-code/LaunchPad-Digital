@@ -1,5 +1,46 @@
 # Digital Product Framework
 
+Digital Product Framework application source built with Next.js.
+
+[Source](https://github.com/Up-to-code/LaunchPad-Digital) · [Issues](https://github.com/Up-to-code/LaunchPad-Digital/issues) · [Project directory](https://github.com/qentrah/.github/blob/main/profile/PROJECTS.md)
+
+## Technology
+
+Next.js, React, TypeScript.
+
+## Get started
+
+```sh
+git clone https://github.com/Up-to-code/LaunchPad-Digital.git
+cd LaunchPad-Digital
+```
+
+Requires Node.js and pnpm.
+
+```sh
+pnpm install
+pnpm dev
+```
+
+## Available commands
+
+| Command | Purpose |
+| --- | --- |
+| `pnpm dev` | Development server |
+| `pnpm start` | Start the configured application |
+| `pnpm build` | Build the project |
+| `pnpm lint` | Check lint rules |
+
+## Project structure
+
+- [`app`](./app)
+- [`components`](./components)
+
+<details>
+<summary>Existing setup notes and credits</summary>
+
+# Digital Product Framework
+
 *Automatically synced with your [v0.dev](https://v0.dev) deployments*
 
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/uptocodes-projects/v0-digital-product-framework)
@@ -28,3 +69,5 @@ Continue building your app on:
 2. Deploy your chats from the v0 interface
 3. Changes are automatically pushed to this repository
 4. Vercel deploys the latest version from this repository
+
+</details>
